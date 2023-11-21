@@ -1,0 +1,92 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Two-factor Authentication
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Windows 32-bit executable
+    internal_properties : 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
+    configuration_id : 4694597367577367426
+    type : 1
+    generation_name : WD Double Authentification.exe
+    version :
+     major_version : 26
+     minor_version : 75
+     internal_generation_version : 1
+     autoincrement_version : false
+    icon_filename : .\description.ico
+    language : 2
+ elements :
+  identifier : 0x400ad76000045ffb
+  elements :
+   -
+     name : WIN_User
+     identifier : 0x400adb3f01c17f90
+     internal_properties : CAAAAAgAAACloY2RLkvj/Ef5qFCNSA0IndzUnC2zU9m21bsYZoqAkGBQIl1RsK8YEA6IcDCgWEiwsA==
+     physical_name : .\WIN_User.wdw
+     type : 2
+   -
+     name : WIN_LOGIN
+     identifier : 0x400ad83a00e5b408
+     internal_properties : CAAAAAgAAAAFd7Pf2KXNsi4iW2LtspVCTiAYVDzLqT0ACpTOdZ+ybdyeSNUaHOtyuOCr1P8bpA8A
+     physical_name : .\WIN_LOGIN.wdw
+     type : 2
+  other_elements : []
+  analysis : .\WD Two-factor Authentication.ana\WD Two-factor Authentication.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ data_directory : <RepExeOuRepDonneesCommun>
+ common_generation_directory : true
+ languages :
+  - en-GB
+ wd_style_sheet : .\WD Double Authentication.sty
+ wb_style_sheet : .\WD Double Authentication.wws
+ code_elements :
+  internal_properties : CAAAAAgAAAABZoyrB/oET7xuvtF4uHEblv1Wk+A7YB3q76//4TV06hP6/Qyis4JeyHAaAdcbfRpvFvil2FVExIczMIKyFREiaB7Bcbbd
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      
+      // Create user file if it does not exist
+      HCreationIfNotFound(User)
+      
+      // Logged-in user ID
+      gnConnectedUserID		is int
+      gnConnectionUserID	is int
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Windows 32-bit executable
+     identifier : 0x400ad76000055ffb
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
